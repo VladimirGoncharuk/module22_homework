@@ -1,0 +1,8 @@
+body * {
+    box-sizing: border-box;
+}
+.switzerland {
+    background-color: red;
+    display: inline-block;
+    height: 120px;
+}
